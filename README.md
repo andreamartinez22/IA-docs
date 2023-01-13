@@ -10,6 +10,9 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Débil: Aquellos sistemas que solo pueden cumplir con un número muy limitado de tareas.
 * Fuerte: Aquellos sistemas que se pueden aplicar a una gran variedad de problemas y dominios diferentes.
 
+## IA Multimodal
+* Los sistemas multimodales de Inteligencia Artificial se caracterizan por procesar múltiples conjuntos de distintos tipos de datos utilizando métodos basados en el aprendizaje para proporcionar información más precisa, veraz e inteligente.
+
 ## Campos de aplicación de la Inteligencia Artificial
 
 * Robótica
