@@ -18,6 +18,7 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Robótica
 * NLP
 * Voz
+### CHATBOT
 
 ## Aprendizaje Automático (Machine Learning)
 ### Definición
@@ -55,3 +56,7 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
  * Es una tendencia a la acumulación de datos que ha venido favorecida por el abaratamiento de los dispositivos de almacenamiento, la digitalización y una percepción a la hora de analizar los datos.
  
  * También se puede referir  al proceso de análisi de estos datos, desde su captura hasta su transformación en conocimiento.
+ 
+ ## HITOS
+ 
+ 
