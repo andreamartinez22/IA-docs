@@ -65,6 +65,6 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
  
  * También se puede referir  al proceso de análisi de estos datos, desde su captura hasta su transformación en conocimiento.
  
- ## HITOS
+
  
  
