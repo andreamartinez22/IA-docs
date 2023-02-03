@@ -18,7 +18,15 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Robótica
 * NLP
 * Voz
-### CHATBOT
+## CHATBOT
+### ¿Que es?
+ Es un programa informático que simula una conversación humana, generalmente para brindar servicio o soporte al cliente.
+ 
+### Tipos 
+
+* Los chatbots basados en reglas: siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del    usuario, pero solo pueden responder de forma limitada. Los chatbots basados en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
+
+* Los chatbots de aprendizaje automático: funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo.Incluso pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
 
 ## Aprendizaje Automático (Machine Learning)
 ### Definición
